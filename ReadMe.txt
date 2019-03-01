@@ -10,5 +10,3 @@ Linked here:
 https://github.com/shuojiashi/women_in_stem/blob/master/notebooks/Women%20in%20STEM_project%20report.ipynb
 
 Data used in this study found from IPUMPS Higher Ed. https://highered.ipums.org/highered/
-My download for this study purpose only can be found in this GitHub folder:
-https://github.com/shuojiashi/women_in_stem/tree/master/data
